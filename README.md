@@ -9,7 +9,7 @@ This repository contains my project work for the **JPMorgan Chase & Co. Advanced
 The project is part of the JPMC Advanced Software Engineering program and focuses on applying real-world software engineering concepts, problem-solving, and best coding practices.
 
 ## Technologies
-- Programming Language: Python / JavaScript  
+- Programming Language:java / JavaScript  
 - Tools: Git, GitHub  
 
 ## Learning Outcomes
